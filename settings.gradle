@@ -1,2 +1,3 @@
+include ':bald'
 include ':app'
 rootProject.name = "bare"
